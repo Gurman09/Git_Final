@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.keyboard {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 5px;
+    padding: 20px;
+}
+
+.key {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+}
+
+.key:hover {
+    background-color: #e6e6e6;
+}
