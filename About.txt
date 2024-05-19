@@ -18,3 +18,4 @@ Gaming Keyboards: Designed specifically for gaming, these keyboards often featur
 
 Ergonomic Keyboards: Designed to reduce strain and discomfort during extended typing sessions, ergonomic keyboards often feature split layouts, curved designs, and wrist rests.
 
+Virtual Keyboards: Software-based keyboards displayed on touchscreen devices, often used in smartphones, tablets, and touchscreen computers when physical keyboards are not available or practical.
